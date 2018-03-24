@@ -22,3 +22,10 @@ The user will have a score that will be compared by other user's scores which is
 Test the game [here](https://github.com/Open-Source-Community/TanksAlgo)
 3. A simple Android application to keep track of people's points in a community that i work in, the project is connected into a firebase database <br> and contains authentication methods to not allow normal users to update other people's points. [Link](https://github.com/Open-Source-Community/MohsensManager) to repo
 
+
+#### How To Work Together 
+First of all working with Github is mandatory, i have some experience working on open source projects within a community that i participate <br>in called [OSC] (https://github.com/Open-Source-Community), i'm one of the Owners right now and i manage some of the repositories over there. <br>
+I'd like our communication to be made fully on Github and applications like Slack so we can discuss tasks or plans on designs of specific algorithms <br>
+I'd also want to work within a given time plan that i will demonstrate in the upcoming parts, we could create weekly meet ups to review the progress of my work on the given tasks that are associated with my work and also previews to audit my work as time passes in order <br> to give comments about it when possible.
+
+
