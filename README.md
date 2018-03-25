@@ -23,9 +23,9 @@ Test the game [here](https://github.com/Open-Source-Community/TanksAlgo)
 3. A simple Android ap10plication to keep track of people's points in a community that i work in, the project is connected into a firebase database <br> and contains authentication methods to not allow normal users to update other people's points. [Link](https://github.com/Open-Source-Community/MohsensManager) to repo
 
 #### Online Footprint
-. Github user name : amrtaher123
+1. Github user name : amrtaher123
 <br> you can find other projects i worked in on my github account and also the projects i participated in.
-. LinkedIn accoubt : [here](https://www.linkedin.com/in/amr-taher-442228140/)
+2. LinkedIn accoubt : [here](https://www.linkedin.com/in/amr-taher-442228140/)
 
 
 
