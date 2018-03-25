@@ -20,9 +20,16 @@ for a project run <a href="https://www.youtube.com/watch?v=cSYD7hUOuoc&t=2s">her
 2. A project made with p5.js (a processing library used for graphics), it is a game in which a player is asked to solve some mcq programming questions <br> and then he plays a game at the end by which he is against spaceships that are trying to destroy him.<br>
 The user will have a score that will be compared with other user's scores which is all stored in a firebase database. <br>
 Test the game [here](https://github.com/Open-Source-Community/TanksAlgo)
-3. A simple Android application to keep track of people's points in a community that i work in, the project is connected into a firebase database <br> and contains authentication methods to not allow normal users to update other people's points. [Link](https://github.com/Open-Source-Community/MohsensManager) to repo
+3. A simple Android ap10plication to keep track of people's points in a community that i work in, the project is connected into a firebase database <br> and contains authentication methods to not allow normal users to update other people's points. [Link](https://github.com/Open-Source-Community/MohsensManager) to repo
+
+#### Online Footprint
+. Github user name : amrtaher123
+<br> you can find other projects i worked in on my github account and also the projects i participated in.
+. LinkedIn accoubt : [here](https://www.linkedin.com/in/amr-taher-442228140/)
 
 
+
+[comment]: <> (this is the part of how to work in the second milestone thingy in the proposal template.)
 #### How To Work Together 
 First of all working with Github is mandatory, i have some experience working on open source projects within a community that i participate <br>in called [OSC](https://github.com/Open-Source-Community), i'm one of the Owners right now and i manage some of the repositories over there. <br>
 I'd like our communication to be made fully on Github and applications like Slack so we can discuss tasks or plans on designs of specific algorithms <br>
