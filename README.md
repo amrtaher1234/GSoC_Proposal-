@@ -37,7 +37,7 @@ Chapters to be implemented <br>
 Before digging into the time plan details or how the communication shall be made i'd like to mention why i picked these chapters.<br>
 Some of the chapters mentioned are already implemented like Solving problmes by searching, what i aim to do is to enhance the visual 
 graphics of how these algorithms are demonstrated to the user, like for example the A* algorithm, i'd use a javascript framework called 
-  [p5js](https://p5js.org)  to create a better scene of nodes that the user can interact with them and they would animate when clicked.<br>
+   [p5js](https://p5js.org) to create a better scene of nodes that the user can interact with them and they would animate when clicked.<br>
 The whole enhancements and addition of new algorithms would be built by p5.js (a framework for graphics), such framework provides lots of tools.<br>
 Chapters like Learning from examples or NLP are considered to be a very interesting fields for me as i learned some of the fundemntals of Machine Learning / Deep Learning and my graduation is built upon such fields (A classifier to classify executable files to be Malware or not based on their API sequence, we are using a recurrent neural network).<br>
  
@@ -72,8 +72,8 @@ As i said i love creating projects using p5.js,
 these two projects are out of the AI book.
 
 1. First project is a visual run of how genetic algorithms works, in which some rockets are intialized at the bottom side of the canvase
-and a target is intialized at the top side, the purpose that these rockets reach this position while having random vectors at the start.Here is a [Link](https://github.com/amrtaher1234/Genetic-Algorithm-Fun-with-p5.js)
+and a target is intialized at the top side, the purpose that these rockets reach this position while having random vectors at the start. Here is a [Link](https://github.com/amrtaher1234/Genetic-Algorithm-Fun-with-p5.js)
 
-2. This project is web based, it is a game created with p5.js in which you sign up then sign in and start answering programming mcq questiins while your tank is moving toward a final destination target, after that your tank is dropped into a different space in which you fight vs space ships and bubbles, your score is finally uploaded into firebase and a scoreboard is shown.Here is a [Link](https://github.com/amrtaher1234/TanksAlgo)
+2. This project is web based, it is a game created with p5.js in which you sign up then sign in and start answering programming mcq questiins while your tank is moving toward a final destination target, after that your tank is dropped into a different space in which you fight vs space ships and bubbles, your score is finally uploaded into firebase and a scoreboard is shown. Here is a [Link](https://github.com/amrtaher1234/TanksAlgo)
 
 
