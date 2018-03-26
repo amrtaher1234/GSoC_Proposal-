@@ -28,7 +28,7 @@ Test the game [here](https://github.com/Open-Source-Community/TanksAlgo)
 2. LinkedIn accoubt : [here](https://www.linkedin.com/in/amr-taher-442228140/)
 
 ## The Plan
-First i'd mention the chapters i want to implement its algorithms: <br>
+Chapters to be implemented <br>
 1. Chapter 3, Solving problems by searching
 2. Chapter 18, Learning from examples
 3. Chapter 16, Making simple decisions
@@ -37,11 +37,18 @@ First i'd mention the chapters i want to implement its algorithms: <br>
 Before digging into the time plan details or how the communication shall be made i'd like to mention why i picked these chapters.<br>
 Some of the chapters mentioned are already implemented like Solving problmes by searching, what i aim to do is to enhance the visual 
 graphics of how these algorithms are demonstrated to the user, like for example the A* algorithm, i'd use a javascript framework called 
-p5.js to create a better scene of nodes that the user can interact with them and they would animate when clicked.
-The whole enhancements and addition of new algorithms would be built by p5.js (a framework for graphics), such framework provides lots of tools.
-Chapters like Learning from examples or NLP are considered to be a very interesting fields for me as i learned some of the fundemntals of Machine Learning / Deep Learning and my graduation is built upon such fields (A classifier to classify executable files to be Malware or not based on their API sequence, we are using a recurrent neural network).
+[p5.js](https://www.p5js.org/) to create a better scene of nodes that the user can interact with them and they would animate when clicked.<br>
+The whole enhancements and addition of new algorithms would be built by p5.js (a framework for graphics), such framework provides lots of tools.<br>
+Chapters like Learning from examples or NLP are considered to be a very interesting fields for me as i learned some of the fundemntals of Machine Learning / Deep Learning and my graduation is built upon such fields (A classifier to classify executable files to be Malware or not based on their API sequence, we are using a recurrent neural network).<br>
  
-
+### Plan Time
+1. Week 1-3 I will learn more about the algorithms i'm going to implement from the book/ other sources
+2. Week 3-5 Implementing Algorithms in chapter 3 and enhancing their graphical looks
+3. Week 5-6 Revising on the implemented algorithms with my mentor to enhance it or correct any errors
+4. Week 6-8 Implementing Algorithms in Chapter 18 and enhancing Chapter 22 algorithms
+5. Week 8-9 Revising Algorithms implemented in the previous 2 weeks with my mentor and enhancing them
+6. Week 9-11 Implementing Chapter 16 Algorithms and revising them 
+7. 11-12 Wrap up my work with my mentor and publish it (will discuss how i should add it to the main website)
 
 
 
