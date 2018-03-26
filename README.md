@@ -24,7 +24,7 @@ Test the game [here](https://github.com/Open-Source-Community/TanksAlgo)
 
 #### Online Footprint
 1. Github user name : amrtaher123
-<br> you can find other projects i worked in on my github account and also the projects i participated in.
+<br> you can find other projects i worked on, on my github account and also the projects i participated in.
 2. LinkedIn accoubt : [here](https://www.linkedin.com/in/amr-taher-442228140/)
 
 ## The Plan
@@ -32,38 +32,38 @@ Chapters to be implemented <br>
 1. Chapter 3, Solving problems by searching
 2. Chapter 18, Learning from examples
 3. Chapter 16, Making simple decisions
-4. Chapter 22 , Natural Language Processing
+4. Chapter 22, Natural Language Processing
 <br>
-Before digging into the time plan details or how the communication shall be made i'd like to mention why i picked these chapters.<br>
+Before digging into the time plan details or how the communication shall be made, i'd like to mention why i picked these chapters.<br>
 Some of the chapters mentioned are already implemented like Solving problmes by searching, what i aim to do is to enhance the visual 
 graphics of how these algorithms are demonstrated to the user, like for example the A* algorithm, i'd use a javascript framework called 
-   p5js (https://github.com/processing/p5.js) to create a better scene of nodes that the user can interact with them and they would animate when clicked.<br>
+   p5js (https://github.com/processing/p5.js) to create a better scene of the nodes that the user shall interact with, also the nodes would animate when clicked.<br>
 The whole enhancements and addition of new algorithms would be built by p5.js (a framework for graphics), such framework provides lots of tools.<br>
 Chapters like Learning from examples or NLP are considered to be a very interesting fields for me as i learned some of the fundemntals of Machine Learning / Deep Learning and my graduation is built upon such fields (A classifier to classify executable files to be Malware or not based on their API sequence, we are using a recurrent neural network).<br>
  
-### Plan Time
-1. Week 1-3 I will learn more about the algorithms i'm going to implement from the book/ other sources
+### Time Plan
+1. Week 1-3 Im going to learn more about the algorithms i'm going to implement from the book/ other sources
 2. Week 3-5 Implementing Algorithms in chapter 3 and enhancing their graphical looks
-3. Week 5-6 Revising on the implemented algorithms with my mentor to enhance it or correct any errors
+3. Week 5-6 Revising on the implemented algorithms with my mentor to enhance them or to correct any errors
 4. Week 6-8 Implementing Algorithms in Chapter 18 and enhancing Chapter 22 algorithms
-5. Week 8-9 Revising Algorithms implemented in the previous 2 weeks with my mentor and enhancing them
-6. Week 9-11 Implementing Chapter 16 Algorithms and revising them 
+5. Week 8-9 Revising and enhancing the implemented Algorithms in the previous 2 weeks with my mentor
+6. Week 9-11 Implementing  Chapter 16 Algorithms then revising the implementation 
 7. 11-12 Wrapping up my work with my mentor
 
 <br>
- I strongly believe that this plan would work cause of these reasons:<br>
-1.  his is my final semester in University and i will be completely free to work after that <br>
-2. I love creating graphical scenes esepcially with p5.js, i think i will be able to learn the algorithms i don't know quickly and apply my ideas right away <br>
+ I strongly believe that this plan would work because of these reasons:<br>
+1. this is my final semester in University and i will be completely free to work after that <br>
+2. I love creating graphical scenes esepcially with p5.js, i think i will be able to learn the algorithms that i don't know quickly and apply my ideas right away <br>
 3. p5.js is a framework that works on html pages by defining a canvas just like html5, it is pretty easy to replace some of the implemented components by better graphical ones with p5.js <br>
-4. I studied Software Engineering and i believe i have good knowledge on how to divide time according to given tasks.<br>
+4. I studied Software Engineering and i believe that i have good knowledge on managing time according to given tasks.<br>
 
 
 #### How To Work Together 
 First of all working with Github is mandatory, i have some experience working on open source projects within a community that i participate in called [OSC](https://github.com/Open-Source-Community), i'm one of the Owners right now and i manage some of the repositories over there. <br>
-I'd like our communication to be made fully on Github and applications like Slack so we can discuss tasks or plans on designs of specific algorithms <br>
+I'd like our communication to be made fully on Github and applications like Slack; so we can discuss tasks or plans on designs of specific algorithms <br>
 Finally these are some points to mention:
 1. I prefer having a meeting with a mentor twice per week to revise and monitor the work i'm doing
-2. If there is a vacation or a familay holiday it will be maximum 3-4 days and i would continue working over but meetings will be held when i'm back 
+2. If there is a vacation or a familay holiday it will be maximum 3-4 days and i would continue  working, but meetings will be held when i'm back 
 3. If possible i prefer using [Discord](https://discordapp.com/) for screen sharing or voice calling meetings.
 
 
