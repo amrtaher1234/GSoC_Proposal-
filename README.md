@@ -20,7 +20,7 @@ for a project run <a href="https://www.youtube.com/watch?v=cSYD7hUOuoc&t=2s">her
 2. A project made with p5.js (a processing library used for graphics), it is a game in which a player is asked to solve some mcq programming questions <br> and then he plays a game at the end by which he is against spaceships that are trying to destroy him.<br>
 The user will have a score that will be compared with other user's scores which is all stored in a firebase database. <br>
 Test the game [here](https://github.com/Open-Source-Community/TanksAlgo)
-3. A simple Android ap10plication to keep track of people's points in a community that i work in, the project is connected into a firebase database <br> and contains authentication methods to not allow normal users to update other people's points. [Link](https://github.com/Open-Source-Community/MohsensManager) to repo
+3. A simple Android application to keep track of people's points in a community that i work in, the project is connected into a firebase database <br> and contains authentication methods to not allow normal users to update other people's points. [Link](https://github.com/Open-Source-Community/MohsensManager) to repo
 
 #### Online Footprint
 1. Github user name : amrtaher123
@@ -59,7 +59,7 @@ Chapters like Learning from examples or NLP are considered to be a very interest
 
 
 #### How To Work Together 
-First of all working with Github is mandatory, i have some experience working on open source projects within a community that i participate in called [OSC](https://github.com/Open-Source-Community), i'm one of the Owners right now and i manage some of the repositories over there. <br>
+First of all working with Github is mandatory, I have some experience working on open source projects within a community that i participate in called [OSC](https://github.com/Open-Source-Community), i'm one of the Owners right now and i manage some of the repositories over there. <br>
 I'd like our communication to be made fully on Github and applications like Slack; so we can discuss tasks or plans on designs of specific algorithms <br>
 Finally these are some points to mention:
 1. I prefer having a meeting with a mentor twice per week to revise and monitor the work i'm doing
@@ -69,13 +69,13 @@ Finally these are some points to mention:
 
 ## My Best Work
 As i said i love creating projects using p5.js, 
-these two projects are out of the AI book.
+these two projects are  not included in the AI book.
 
-1. First project is a visual run of how genetic algorithms works, in which some rockets are intialized at the bottom side of the canvase
+1. First project is a visual run of how genetic algorithms work, in which some rockets are intialized at the bottom side of the canvase
 and a target is intialized at the top side, the purpose that these rockets reach this position while having random vectors at the start. Here is a [Link](https://github.com/amrtaher1234/Genetic-Algorithm-Fun-with-p5.js)
 
-2. This project is web based, it is a game created with p5.js in which you sign up then sign in and start answering programming mcq questiins while your tank is moving toward a final destination target, after that your tank is dropped into a different space in which you fight vs space ships and bubbles, your score is finally uploaded into firebase and a scoreboard is shown. Here is a [Link](https://github.com/amrtaher1234/TanksAlgo)
+2. This is a project that i mentioned above in my personal projects about the Programming MCQ game that drives you into a final game with a Tank, you can signup and then signin to test the game. Here is a [Link](https://github.com/amrtaher1234/TanksAlgo)
 
 ## Final Thoughts
-Finally i really think that i will be able to create educational graphical designs for algorithms in the book that will teach people how
-such algorithms work, my best work above was just a demonstration of what i did before and i will enhance my skills further more to be able to create educational content through graphics.
+Finally I really think that i will be able to create educational graphical designs for algorithms in the book that will teach people how
+such algorithms work, my best work above was just a demonstration of what I did before and i will enhance my skills further more to be able to create educational content through graphics.
