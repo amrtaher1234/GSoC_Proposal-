@@ -67,5 +67,13 @@ Finally these are some points to mention:
 3. If possible i prefer using [Discord](https://discordapp.com/) for screen sharing or voice calling meetings.
 
 
+## My Best Work
+As i said i love creating projects using p5.js, 
+these two projects are out of the AI book.
+
+1. First project is a visual run of how genetic algorithms works, in which some rockets are intialized at the bottom side of the canvase
+and a target is intialized at the top side, the purpose that these rockets reach this position while having random vectors at the start.
+
+2. This project is web based, it is a game created with p5.js in which you sign up then sign in and start answering programming mcq questiins while your tank is moving toward a final destination target, after that your tank is dropped into a different space in which you fight vs space ships and bubbles, your score is finally uploaded into firebase and a scoreboard is shown.
 
 
