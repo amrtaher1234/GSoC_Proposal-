@@ -37,7 +37,7 @@ Chapters to be implemented <br>
 Before digging into the time plan details or how the communication shall be made i'd like to mention why i picked these chapters.<br>
 Some of the chapters mentioned are already implemented like Solving problmes by searching, what i aim to do is to enhance the visual 
 graphics of how these algorithms are demonstrated to the user, like for example the A* algorithm, i'd use a javascript framework called 
- [p5.js](https://p5js.org/) to create a better scene of nodes that the user can interact with them and they would animate when clicked.<br>
+ [p5js](https://p5js.org/) to create a better scene of nodes that the user can interact with them and they would animate when clicked.<br>
 The whole enhancements and addition of new algorithms would be built by p5.js (a framework for graphics), such framework provides lots of tools.<br>
 Chapters like Learning from examples or NLP are considered to be a very interesting fields for me as i learned some of the fundemntals of Machine Learning / Deep Learning and my graduation is built upon such fields (A classifier to classify executable files to be Malware or not based on their API sequence, we are using a recurrent neural network).<br>
  
