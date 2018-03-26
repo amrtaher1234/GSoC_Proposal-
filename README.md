@@ -38,7 +38,7 @@ Before digging into the time plan details or how the communication shall be made
 Some of the chapters mentioned are already implemented like Solving problmes by searching, what i aim to do is to enhance the visual 
 graphics of how these algorithms are demonstrated to the user, like for example the A* algorithm, i'd use a javascript framework called 
    p5js (https://github.com/processing/p5.js) to create a better scene of nodes that the user can interact with them and they would animate when clicked.<br>
-The whole enhancements and addition of new algorithms would be built by [p5.js] (https://github.com/processing/p5.js) (a framework for graphics), such framework provides lots of tools.<br>
+The whole enhancements and addition of new algorithms would be built by p5.js (a framework for graphics), such framework provides lots of tools.<br>
 Chapters like Learning from examples or NLP are considered to be a very interesting fields for me as i learned some of the fundemntals of Machine Learning / Deep Learning and my graduation is built upon such fields (A classifier to classify executable files to be Malware or not based on their API sequence, we are using a recurrent neural network).<br>
  
 ### Plan Time
@@ -76,4 +76,6 @@ and a target is intialized at the top side, the purpose that these rockets reach
 
 2. This project is web based, it is a game created with p5.js in which you sign up then sign in and start answering programming mcq questiins while your tank is moving toward a final destination target, after that your tank is dropped into a different space in which you fight vs space ships and bubbles, your score is finally uploaded into firebase and a scoreboard is shown. Here is a [Link](https://github.com/amrtaher1234/TanksAlgo)
 
-
+## Final Thoughts
+Finally i really think that i will be able to create educational graphical designs for algorithms in the book that will teach people how
+such algorithms work, my best work above was just a demonstration of what i did before and i will enhance my skills further more to be able to create educational content through graphics.
