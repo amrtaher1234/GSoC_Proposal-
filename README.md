@@ -51,11 +51,11 @@ Chapters like Learning from examples or NLP are considered to be a very interest
 7. 11-12 Wrapping up my work with my mentor
 
 <br>
-I strongly believe that this plan would work cause of these reasons:
-1. his is my final semester in University and i will be completely free to work after that
-2. I love creating graphical scenes esepcially with p5.js, i think i will be able to learn the algorithms i don't know quickly and apply my ideas right away
-3. p5.js is a framework that works on html pages by defining a canvas just like html5, it is pretty easy to replace some of the implemented components by better graphical ones with p5.js
-4. I studied Software Engineering and i believe i have good knowledge on how to divide time according to given tasks.
+ I strongly believe that this plan would work cause of these reasons:
+a. his is my final semester in University and i will be completely free to work after that
+b. I love creating graphical scenes esepcially with p5.js, i think i will be able to learn the algorithms i don't know quickly and apply my ideas right away
+c. p5.js is a framework that works on html pages by defining a canvas just like html5, it is pretty easy to replace some of the implemented components by better graphical ones with p5.js
+d. I studied Software Engineering and i believe i have good knowledge on how to divide time according to given tasks.
 
 
 #### How To Work Together 
