@@ -48,13 +48,24 @@ Chapters like Learning from examples or NLP are considered to be a very interest
 4. Week 6-8 Implementing Algorithms in Chapter 18 and enhancing Chapter 22 algorithms
 5. Week 8-9 Revising Algorithms implemented in the previous 2 weeks with my mentor and enhancing them
 6. Week 9-11 Implementing Chapter 16 Algorithms and revising them 
-7. 11-12 Wrap up my work with my mentor and publish it (will discuss how i should add it to the main website)
+7. 11-12 Wrapping up my work with my mentor
 
+<br>
+I strongly believe that this plan would work cause of these reasons:<br>
+1. This is my final semester in University and i will be completely free to work after that
+2. I love creating graphical scenes esepcially with p5.js, i think i will be able to learn the algorithms i don't know quickly and apply my ideas right away
+3. p5.js is a framework that works on html pages by defining a canvas just like html5, it is pretty easy to replace some of the implemented components by better graphical ones with p5.js
+4. I studied Software Engineering and i believe i have good knowledge on how to divide time according to given tasks.
 
 
 #### How To Work Together 
-First of all working with Github is mandatory, i have some experience working on open source projects within a community that i participate <br>in called [OSC](https://github.com/Open-Source-Community), i'm one of the Owners right now and i manage some of the repositories over there. <br>
+First of all working with Github is mandatory, i have some experience working on open source projects within a community that i participate in called [OSC](https://github.com/Open-Source-Community), i'm one of the Owners right now and i manage some of the repositories over there. <br>
 I'd like our communication to be made fully on Github and applications like Slack so we can discuss tasks or plans on designs of specific algorithms <br>
-I'd also want to work within a given time plan that i will demonstrate in the upcoming parts, we could create weekly meet ups to review the progress of my work on the given tasks that are associated with my work and also previews to audit my work as time passes in order <br> to give comments about it when possible.
+Finally these are some points to mention:
+1. I prefer having a meeting with a mentor twice per week to revise and monitor the work i'm doing
+2. If there is a vacation or a familay holiday it will be maximum 3-4 days and i would continue working over but meetings will be held when i'm back 
+3. If possible i prefer using [Discord](https://discordapp.com/) for screen sharing or voice calling meetings.
+
+
 
 
