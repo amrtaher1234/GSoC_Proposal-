@@ -72,8 +72,8 @@ As i said i love creating projects using p5.js,
 these two projects are out of the AI book.
 
 1. First project is a visual run of how genetic algorithms works, in which some rockets are intialized at the bottom side of the canvase
-and a target is intialized at the top side, the purpose that these rockets reach this position while having random vectors at the start.
+and a target is intialized at the top side, the purpose that these rockets reach this position while having random vectors at the start.Here is a [Link](https://github.com/amrtaher1234/Genetic-Algorithm-Fun-with-p5.js)
 
-2. This project is web based, it is a game created with p5.js in which you sign up then sign in and start answering programming mcq questiins while your tank is moving toward a final destination target, after that your tank is dropped into a different space in which you fight vs space ships and bubbles, your score is finally uploaded into firebase and a scoreboard is shown.
+2. This project is web based, it is a game created with p5.js in which you sign up then sign in and start answering programming mcq questiins while your tank is moving toward a final destination target, after that your tank is dropped into a different space in which you fight vs space ships and bubbles, your score is finally uploaded into firebase and a scoreboard is shown.Here is a [Link](https://github.com/amrtaher1234/TanksAlgo)
 
 
