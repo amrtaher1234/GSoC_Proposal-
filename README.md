@@ -27,9 +27,24 @@ Test the game [here](https://github.com/Open-Source-Community/TanksAlgo)
 <br> you can find other projects i worked in on my github account and also the projects i participated in.
 2. LinkedIn accoubt : [here](https://www.linkedin.com/in/amr-taher-442228140/)
 
+## The Plan
+First i'd mention the chapters i want to implement its algorithms: <br>
+1. Chapter 3, Solving problems by searching
+2. Chapter 18, Learning from examples
+3. Chapter 16, Making simple decisions
+4. Chapter 22 , Natural Language Processing
+<br>
+Before digging into the time plan details or how the communication shall be made i'd like to mention why i picked these chapters.<br>
+Some of the chapters mentioned are already implemented like Solving problmes by searching, what i aim to do is to enhance the visual 
+graphics of how these algorithms are demonstrated to the user, like for example the A* algorithm, i'd use a javascript framework called 
+p5.js to create a better scene of nodes that the user can interact with them and they would animate when clicked.
+The whole enhancements and addition of new algorithms would be built by p5.js (a framework for graphics), such framework provides lots of tools.
+Chapters like Learning from examples or NLP are considered to be a very interesting fields for me as i learned some of the fundemntals of Machine Learning / Deep Learning and my graduation is built upon such fields (A classifier to classify executable files to be Malware or not based on their API sequence, we are using a recurrent neural network).
+ 
 
 
-[comment]: <> (this is the part of how to work in the second milestone thingy in the proposal template.)
+
+
 #### How To Work Together 
 First of all working with Github is mandatory, i have some experience working on open source projects within a community that i participate <br>in called [OSC](https://github.com/Open-Source-Community), i'm one of the Owners right now and i manage some of the repositories over there. <br>
 I'd like our communication to be made fully on Github and applications like Slack so we can discuss tasks or plans on designs of specific algorithms <br>
